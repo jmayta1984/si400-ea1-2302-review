@@ -5,5 +5,5 @@
 - [Grabación](https://us-lti.bbcollab.com/recording/3d2fd21ad72a4a96b7afbac90efd206e)
 - [Temario](https://docs.google.com/document/d/1clRzkleW7MaCW7KLrDzQgpYCn88YhloEcgZjNiCUBm4/edit?usp=sharing)
 - [Guía SQL](https://github.com/jmayta1984/database-design/blob/main/Structured%20Query%20language%20(SQL).pdf)
-## Examen final 2023-01
+## Examen parcial 2023-01
 - [Enunciado](https://drive.google.com/file/d/1eH30fFxXYEeYB2kQ0ZTdlAjUAjIprx0X/view?usp=sharing)
